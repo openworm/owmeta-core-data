@@ -1,0 +1,5 @@
+<http://schema.openworm.org/2020/07> <http://schema.openworm.org/2020/07/Context/imports> <http://www.w3.org/2000/01/rdf-schema> .
+<http://www.w3.org/2000/01/rdf-schema> <http://schema.openworm.org/2020/07/Context/imports> <http://www.w3.org/1999/02/22-rdf-syntax-ns> .
+<urn:uuid:3fa999df-2f9e-4455-beb4-b5782ccf71ad> <http://schema.openworm.org/2020/07/Context/imports> <http://schema.openworm.org/2020/07> .
+<urn:uuid:3fa999df-2f9e-4455-beb4-b5782ccf71ad> <http://schema.openworm.org/2020/07/Context/imports> <urn:uuid:3fa999df-2f9e-4455-beb4-b5782ccf71ad> .
+
